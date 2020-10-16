@@ -9,3 +9,9 @@ It contain use of function
     ◘ Joining of Table
     ◘ sum()
     ◘ Selection of particular data
+Query for creation of table:
+    CREATE TABLE STUDENTS
+    (
+    admno number(4),
+    name VARCHAR(20)
+    );
